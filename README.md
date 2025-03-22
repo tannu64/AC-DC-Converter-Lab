@@ -41,6 +41,3 @@ The experiment demonstrates the conversion of AC to DC power through:
 
 This AC to DC conversion system is fundamental for powering electronic equipment that requires stable DC voltage from standard AC power sources.
 
-## License
-
-[Add your license information here] 
